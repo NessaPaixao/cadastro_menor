@@ -1,0 +1,31 @@
+.CadastroMenor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #471521;
+    color: white;
+    .Texto{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+  form {
+    margin-left: 50px; 
+  .cadastrar{
+      border: none;
+      width: 220px;
+      height: 30px;
+      border: 2px solid #471521;
+      border-radius: 10px;
+      padding: 0 20px;
+      color:  #471521;
+      font-weight: 600;
+      outline: none;
+      margin-bottom: 20px;
+      cursor: pointer;
+    }
+  }
+}
+
